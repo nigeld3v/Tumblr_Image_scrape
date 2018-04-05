@@ -12,14 +12,14 @@ Okay,
 1) On your Mac keyboard, hit Command + [SPACEBAR]
 2) type "terminal" and hit the enter key (you should now see a black field that allows you to type things)
 
-```Install PIP3```
-python get-pip.py
+Install PIP3
+```python get-pip.py```
 
-```Install the latest version of Python```
-sudo apt-get python 3.6.1
+Install the latest version of Python
+```sudo apt-get python 3.6.1```
 
-```Install beautifulsoup```
-sudo pip3 install beautifulsoup4
+Install beautifulsoup
+```sudo pip3 install beautifulsoup4```
 
 download Tumblr_Image_scrape.py file from ```https://github.com/nigeld3v/Tumblr_Image_scrape/blob/master/Tumblr_Image_scrape.py```
 
@@ -33,8 +33,10 @@ Press Enter. The script should run and download the Tumblr site's images, page b
 <3 <3 <3 <3 <3
 Features to look out for in the future:
 
-Exception handling:
+> Exception handling:
 - accepts URL with no "http://"
 - accepts URL with no "/" at end of url
 - terminate/interrupt the script when there is no more image content to scrape
 - meaningful image file naming (i.e. "FolderName_1" or "DDMMYY_FolderName_1")
+
+> Turning this whole thing into a browser plugin
