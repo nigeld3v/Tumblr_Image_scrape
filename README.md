@@ -9,14 +9,14 @@ Okay,
 
 ***OPEN TERMINAL*** 
 -or, for non-computery folks:
-1) On your Mac keyboard, hit Command + [SPACEBAR]/n
-2) type "terminal" and hit the enter key (you should now see a black field that allows you to type things)/n
+1) On your Mac keyboard, hit Command + [SPACEBAR]
+2) type "terminal" and hit the enter key (you should now see a black field that allows you to type things)
 
-***Install PIP3***
+```Install PIP3```
 python get-pip.py
-***Install the latest version of Python***
+```Install the latest version of Python```
 sudo apt-get python 3.6.1
-***Install beautifulsoup***
+```Install beautifulsoup```
 sudo pip3 install beautifulsoup4
 
 <3 <3 <3 <3 <3
