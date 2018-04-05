@@ -9,8 +9,8 @@ Okay,
 
 ***OPEN TERMINAL*** 
 -or, for non-computery folks:
-1) On your Mac keyboard, hit Command + [SPACEBAR]
-2) type "terminal" and hit the enter key (you should now see a black field that allows you to type things)
+1) On your Mac keyboard, hit Command + [SPACEBAR]/n
+2) type "terminal" and hit the enter key (you should now see a black field that allows you to type things)/n
 
 ***Install PIP3***
 python get-pip.py
