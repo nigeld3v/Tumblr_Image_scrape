@@ -20,7 +20,7 @@ sudo apt-get python 3.6.1
 sudo pip3 install beautifulsoup4
 
 <3 <3 <3 <3 <3
-Future features to look out for in the future:
+Features to look out for in the future:
 
 Exception handling:
 - accepts URL with no "http://"
