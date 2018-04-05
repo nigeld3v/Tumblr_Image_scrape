@@ -14,8 +14,10 @@ Okay,
 
 ```Install PIP3```
 python get-pip.py
+
 ```Install the latest version of Python```
 sudo apt-get python 3.6.1
+
 ```Install beautifulsoup```
 sudo pip3 install beautifulsoup4
 
