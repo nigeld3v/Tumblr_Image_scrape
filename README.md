@@ -26,7 +26,7 @@ download Tumblr_Image_scrape.py file from ```https://github.com/nigeld3v/Tumblr_
 In Terminal, change your working directory to the folder where you have downloaded 'Tumblr_Image_scrape.py' type:
 Python3 Tumblr_Image_scrape.py
 
-You will be prompted to provide a Tumblr URL. Provide it in the format: 'http://www.<URL>.tumblr.com/' making sure that it begins with 'http://' and ends with '/'
+You will be prompted to provide a Tumblr URL. Provide it in the format: 'http://www.TUMBLRNAME.tumblr.com/' making sure that it begins with 'http://' and ends with '/'
   
 Press Enter. The script should run and download the Tumblr site's images, page by page, and store them in a folder (title will be the Tumblr site's name) in the same directory where Tumblr_Image_scrape.py is kept.
 
