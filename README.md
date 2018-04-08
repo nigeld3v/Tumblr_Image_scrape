@@ -43,7 +43,7 @@ You will be prompted to provide a Tumblr URL. Type or paste the address of the T
   
 Press Enter. The script should run and download the Tumblr site's images, page by page, and store them in a folder (title will be the Tumblr site's name) in the same directory where Tumblr_Image_scrape.py is kept.
 
-Note: if it works, this script will continue to run until you make it stop. The easiest way to do this in Terminal is to hit the [Control]+[C] keys on your keyboard.
+***Note: if it works, this script will continue to run until you make it stop. The easiest way to do this in Terminal is to hit the [Control]+[C] keys on your keyboard.***
 
 <3 <3 <3 <3 <3
 Features to look out for in the future:
