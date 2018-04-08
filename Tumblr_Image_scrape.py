@@ -1,6 +1,6 @@
 # works with Python3
 
-# IMG_find_BS.py
+# Tumblr_Image_scrape.py
 
 # re stands for regular expressions
 import re
