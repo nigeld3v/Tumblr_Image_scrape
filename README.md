@@ -12,10 +12,10 @@ Okay,
 MAC:
 1) On your Mac keyboard, hit Command + [SPACEBAR]
 2) type "terminal" and hit the enter key (you should now see a black field that allows you to type things)
-```https://www.wikihow.com/Open-a-Terminal-Window-in-Mac```
+https://www.wikihow.com/Open-a-Terminal-Window-in-Mac
 
 Windows:
-```https://www.quora.com/How-do-I-open-terminal-in-windows```
+https://www.quora.com/How-do-I-open-terminal-in-windows
 
 Be sure to have PIP3 installed (unless you already have it)
 ```python get-pip.py```
