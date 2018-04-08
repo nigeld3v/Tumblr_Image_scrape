@@ -51,4 +51,5 @@ Features to look out for in the future:
 > Exception handling:
 - terminate/interrupt the script when there is no more image content to scrape
 
+> Building this using Scrapy (which I have heard is more efficient)
 > Turning this whole thing into a browser plugin
