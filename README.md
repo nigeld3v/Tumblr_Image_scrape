@@ -30,11 +30,13 @@ download Tumblr_Image_scrape.py file from this github repository ```https://gith
 
 In Terminal, you want to change your working directory to the folder where you have downloaded 'Tumblr_Image_scrape.py'
 If you do not know how to navigate the files on your computer using Terminal, here is a good resource:
+
 https://www.digitalocean.com/community/tutorials/how-to-use-cd-pwd-and-ls-to-explore-the-file-system-on-a-linux-server
+
 You should easily be able to find the right file using "pwd", "cd", and "ls" commands in terminal.
 
 Once you have changed your directory to the file where Tumblr_Image_scrape.py was saved, type:
-Python3 Tumblr_Image_scrape.py
+```Python3 Tumblr_Image_scrape.py```
 and then press the [Enter] key on your keyboard.
 
 You will be prompted to provide a Tumblr URL. Type or paste the address of the Tumblr, then press the [Enter] key on your keyboard.
