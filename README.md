@@ -8,20 +8,25 @@ Make sure you have room on your drive for what could be several gigabytes of ima
 Okay,
 
 ***OPEN TERMINAL*** 
--or, for non-computery folks:
+-or, for non-programmer folks:
+MAC:
 1) On your Mac keyboard, hit Command + [SPACEBAR]
 2) type "terminal" and hit the enter key (you should now see a black field that allows you to type things)
+https://www.wikihow.com/Open-a-Terminal-Window-in-Mac
 
-Install PIP3
+Windows:
+https://www.quora.com/How-do-I-open-terminal-in-windows
+
+Be sure to have PIP3 installed (unless you already have it)
 ```python get-pip.py```
 
-Install the latest version of Python
+Be sure to have the latest version of Python (3.6.1 as of April 2018)
 ```sudo apt-get python 3.6.1```
 
-Install beautifulsoup
+Be sure to have the latest version of beautifulsoup (4 as of April 2018)
 ```sudo pip3 install beautifulsoup4```
 
-download Tumblr_Image_scrape.py file from ```https://github.com/nigeld3v/Tumblr_Image_scrape/blob/master/Tumblr_Image_scrape.py```
+download Tumblr_Image_scrape.py file from this github repository ```https://github.com/nigeld3v/Tumblr_Image_scrape/blob/master/Tumblr_Image_scrape.py```
 
 In Terminal, you want to change your working directory to the folder where you have downloaded 'Tumblr_Image_scrape.py'
 If you do not know how to navigate the files on your computer using Terminal, here is a good resource:
