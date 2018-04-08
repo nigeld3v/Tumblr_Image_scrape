@@ -1,9 +1,9 @@
 # Tumblr_Image_scrape
-This project employs Python3 and BeautifulSoup to scrape a Tumblr site (with the url provided by the user) to download, page by page, all the images and gifs from the site posts. This is an excellent tool for archiving other peoples' Tumblrs <3
+This project employs Python3 and BeautifulSoup to scrape a Tumblr site (with the url provided by the user) to download, page by page, all the image files (.jpg, .gif, .png) from the site's posts. This is an excellent tool for archiving other peoples' Tumblrs <3
 
 HOW TO USE (for non-programmers)
 
-Make sure you have room on your drive for what could be several Gigs of images and GIFs!!!
+Make sure you have room on your drive for what could be several gigabytes of images and GIFs!!!
 
 Okay,
 
