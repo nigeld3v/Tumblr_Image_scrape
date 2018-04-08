@@ -20,10 +20,10 @@ https://www.quora.com/How-do-I-open-terminal-in-windows
 Be sure to have PIP3 installed (unless you already have it)
 ```python get-pip.py```
 
-Be sure to have the latest version of Python (3.6.1 as of April 2018)
+Be sure to have the latest version of Python (Ver 3.6.x as of April 2018)
 ```sudo apt-get python 3.6.1```
 
-Be sure to have the latest version of beautifulsoup (4 as of April 2018)
+Be sure to have the latest version of beautifulsoup (Ver 4 as of April 2018)
 ```sudo pip3 install beautifulsoup4```
 
 download Tumblr_Image_scrape.py file from this github repository ```https://github.com/nigeld3v/Tumblr_Image_scrape/blob/master/Tumblr_Image_scrape.py```
