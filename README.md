@@ -17,16 +17,18 @@ https://www.wikihow.com/Open-a-Terminal-Window-in-Mac
 ### Windows:
 https://www.quora.com/How-do-I-open-terminal-in-windows
 
-Be sure to have PIP3 installed (unless you already have it)
+### Packages you need to have (downloadable via Terminal using commands below)
+
+## Be sure to have PIP3 installed (unless you already have it)
 ```python get-pip.py```
 
-Be sure to have the latest version of Python (Ver 3.6.x as of April 2018)
+## Be sure to have the latest version of Python (Ver 3.6.x as of April 2018)
 ```sudo apt-get python 3.6.1```
 
-Be sure to have the latest version of beautifulsoup (Ver 4 as of April 2018)
+## Be sure to have the latest version of beautifulsoup (Ver 4 as of April 2018)
 ```sudo pip3 install beautifulsoup4```
 
-download Tumblr_Image_scrape.py file from this github repository ```https://github.com/nigeld3v/Tumblr_Image_scrape/blob/master/Tumblr_Image_scrape.py```
+## download Tumblr_Image_scrape.py file from this github repository ```https://github.com/nigeld3v/Tumblr_Image_scrape/blob/master/Tumblr_Image_scrape.py```
 
 In Terminal, you want to change your working directory to the folder where you have downloaded 'Tumblr_Image_scrape.py'
 If you do not know how to navigate the files on your computer using Terminal, here is a good resource:
@@ -43,13 +45,11 @@ You will be prompted to provide a Tumblr URL. Type or paste the address of the T
   
 Press Enter. The script should run and download the Tumblr site's images, page by page, and store them in a folder (title will be the Tumblr site's name) in the same directory where Tumblr_Image_scrape.py is kept.
 
-## ***Note: if it works, this script will continue to run until you make it stop. The easiest way to do this in Terminal is to hit the [Control]+[C] keys on your keyboard.***
+# ***NOTE: if it works, this script will continue to run until you make it stop. The easiest way to do this in Terminal is to hit the [Control]+[C] keys on your keyboard.***
 
 <3 <3 <3 <3 <3
-Features to look out for in the future:
-
-> Exception handling:
-- terminate/interrupt the script when there is no more image content to scrape
-
-> Building this using Scrapy (which I have heard is more efficient)
-> Turning this whole thing into a browser plugin
+### Features to look out for in the future:
+#### Exception handling:
+#### - Terminate/interrupt the script when there is no more image content to scrape
+#### - Building this using Scrapy (which I have heard is more efficient)
+#### - Turning this whole thing into a browser plugin
